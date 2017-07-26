@@ -1,0 +1,17 @@
+[
+  {
+    "Location": "vijayawada",
+    "Name": "Miracle-Vijayawada Hospital",
+    "Email" : "pallipriyankaprasad0@gmail.com"
+  },
+  {
+    "Location": "vizag",
+    "Name": "Miracle-Vizag Hospital",
+    "Email" : "gurusainath007@gmail.com"
+  },
+  {
+    "Location": "hyderabad",
+    "Name": "Miracle-Hyderabad Hospital",
+    "Email" : "naidunandhakishore@gmail.com"
+  }
+]

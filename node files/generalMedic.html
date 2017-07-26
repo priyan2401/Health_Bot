@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<input name="generalMedic" list="medicines" />
+<datalist id="medicines"></datalist>
+
+<script type="text/javascript">
+
+//import json file containing symptoms
+var data=[{"Name": "cold","Medicine": "Cold Act"},{"Name":"fever","Medicine": "Paracetmol"},{"Name": "headache","Medicine": "Nise"},{"Name": "acidity","Medicine": "ENO"},{"Name": "body pains","Medicine": "moov gel (or) moov spray"}];
+
+  var options = '';
+
+  for(var i = 0; i < data.length; i++)
+    options += '<option value="'+data[i].Name+'" />';
+
+  document.getElementById('medicines').innerHTML = options;
+</script>		
+</body>
+</html>

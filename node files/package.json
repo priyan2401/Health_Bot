@@ -1,0 +1,22 @@
+{
+  "name": "health_bot",
+  "version": "1.0.0",
+  "description": "A Chat bot which can identify disease based on the symptoms given by the user and books an appointment with the doctor too ... :)",
+  "main": "getSymptoms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishore",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "~4.15.2",
+    "ionic": "*",
+    "mongoose": "^4.10.4",
+    "nexmo": "^2.0.2",
+    "nodemailer": "^4.0.1",
+    "parser": "^0.1.4"
+  }
+}

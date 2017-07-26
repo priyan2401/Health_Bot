@@ -1,0 +1,177 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+.main_body_everyehere {
+  background-color: #87CEFA;
+}
+.home_main_image_pos {
+  border: 10px solid #3C443E;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.home_main_image {
+  width: 100px;
+  height: 100px;
+  margin-left: 12%;
+  margin-top: 10%;
+}
+.app_font {
+  white-space: inherit;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.about_health_bot {
+  padding-top: 3%;
+  padding-left: 5%;
+  padding-right: 2%;
+  font-size: 130%;
+}
+.about_health_bot span {
+  margin-left: 9%;
+}
+.home_chat_icon {
+  font-size:420%;
+  border: 3px solid gray;
+  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+  line-height: 1.8;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.buttons_position {
+  text-align: center;
+}
+.index_buttons_position {
+  text-align: center;
+}
+.index_buttons_position button {
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+  box-shadow: 3px 3px 10px #888888;
+}
+.index_buttons_position span {
+  font-size: 60px;
+  text-align: center;
+  line-height: 1.3;
+}
+.index_buttons_position .span1 {
+  line-height: 1;
+}
+.index_buttons_position .span2 {
+  line-height: 1.2;
+}
+.index_text_position {
+  font-size: 20px;
+  padding-top: 3%;
+}
+.index_text_position .general {
+  float: left;
+  text-align: center;
+  width: 49%;
+}
+.index_text_position .admin {
+  float: right;
+  text-align: center;
+  width: 49%;
+}
+.index_text_maintain {
+  padding-top: 3%;
+}
+.marquee_float {
+  padding-top: ;
+  font-size: 140%;
+  width: 80%;
+  margin-left: 10%;
+}
+
+/* general.html */
+.header_app_font {
+  padding-top: 5%;
+  white-space: inherit;
+  font-size: 20px;
+  font-weight: bold;
+}
+.card_data_left {
+  float: left;
+  width: 44%;
+  margin-top: 4%;
+  margin-left: 4%;
+  text-align: center;
+  box-shadow: 1px 1px 10px #888888;
+  background: white;
+}
+.card_data_right {
+  float: right;
+  width: 44%;
+  margin-top: 4%;
+  margin-right: 4%;
+  text-align: center;
+  box-shadow: 1px 1px 5px #888888;
+  background: white;
+}
+.card_data_left hr , .card_data_right hr {
+  width: 50%;
+  text-align: center;
+}
+.home_chat_text , .general_chat_text {
+  padding-top: 3%;
+  font-size: 130%;
+  font-weight: 600;
+}
+.general_main_card {
+  clear: both;
+  padding-top: 0.1%;
+  padding-left: 1.8%;
+  width: 98%;
+}
+.general_chat_text {
+  text-align: center;
+}
+
+/* login page */
+.login_main_body {
+  width: 100%;
+  height: 100%;
+}
+.login_card .button_label {
+  float: right;
+  padding-right: 5%;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+/* effected person details */
+.appointing_data button {
+  float: right;
+  padding-right: 10%;
+}
+
+/* health_tips.html */
+.health_tips_data p {
+  font-size: 130%;
+  font-weight: bold;
+}
+
+/*suggest_medicines*/
+.medicine .tag1 {
+  font-size: 140%;
+  padding: 5%;
+}
+.medicine .tag2 {
+  font-size: 150%;
+  font-weight: 600;
+  padding: 5%;
+}
+.medicine span {
+  font-weight: 600;
+  padding: 5%;
+}

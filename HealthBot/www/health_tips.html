@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link rel="manifest" href="manifest.json">
+
+    <!-- un-comment this code to enable service worker
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js')
+          .then(() => console.log('service worker installed'))
+          .catch(err => console.log('Error', err));
+      }
+    </script>-->
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+  </head>
+  <body ng-app="starter" class="main_body_everyehere">
+
+    <ion-pane>
+      <!-- <ion-header-bar class="bar-stable">
+        <h1 class="title">Ionic Blank Starter</h1>
+      </ion-header-bar> -->
+      <ion-content>
+
+        <div text-center class="header_app_font">
+          <a href="general.html">
+            &nbsp;&nbsp;&nbsp;<span class="ion-chevron-left"></span><span class="ion-chevron-left"></span>
+          </a>
+          &nbsp;&nbsp;&nbsp; Health Tips
+        </div>
+
+        <hr style="height:1px; margin: 5%;"/>
+
+        <div class="card health_tips_data">
+          <div class="item item_image">
+            <img src="./img/physic.jpg" width="100%"/>
+          </div>
+          <p class="item item_text_divider item-text-wrap">GOOD HEALTH is the base for STRONG MIND and STRUDY PHYSIQUE</p>
+        </div>
+
+        <div class="card health_tips_data">
+          <div class="item item_image">
+            <img src="./img/Health-Welness-Businesses.jpg" width="100%"/>
+          </div>
+          <p class="item item_text_divider item-text-wrap">Small amount of time for EXERCISE daily provides LONG LIFE</p>
+        </div>
+
+        <div class="card health_tips_data">
+          <div class="item item_image">
+            <img src="./img/apple.jpg" width="100%"/>
+          </div>
+          <p class="item item_text_divider item-text-wrap">GOOD FOOD is the catalyst for SUPERIOR HEALTH</p>
+        </div>
+
+        <div class="card health_tips_data">
+          <div class="item item_image">
+            <img src="./img/fruitjuice.jpg" width="100%"/>
+          </div>
+          <p class="item item_text_divider item-text-wrap">Nutritious Juices furnish Healthy body</p>
+        </div>
+
+        <div class="card health_tips_data">
+          <div class="item item_image">
+            <img src="./img/jogging.jpg" width="100%"/>
+          </div>
+          <p class="item item_text_divider item-text-wrap">Healthy environment is the key for splendid health</p>
+        </div>
+
+      </ion-content>
+    </ion-pane>
+  </body>
+</html>

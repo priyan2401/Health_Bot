@@ -1,0 +1,254 @@
+[
+  {
+    "ID": 10,
+    "Name": "abdominal pain"
+  },
+  {
+    "ID": 238,
+    "Name": "anxiety"
+  },
+  {
+    "ID": 104,
+    "Name": "back pain"
+  },
+  {
+    "ID": 75,
+    "Name": "burning eyes"
+  },
+  {
+    "ID": 46,
+    "Name": "burning in the throat"
+  },
+  {
+    "ID": 170,
+    "Name": "cheek swelling"
+  },
+  {
+    "ID": 17,
+    "Name": "chest pain"
+  },
+  {
+    "ID": 31,
+    "Name": "chest tightness"
+  },
+  {
+    "ID": 175,
+    "Name": "chills"
+  },
+  {
+    "ID": 139,
+    "Name": "cold sweats"
+  },
+  {
+    "ID": 15,
+    "Name": "cough"
+  },
+  {
+    "ID": 207,
+    "Name": "dizziness"
+  },
+  {
+    "ID": 244,
+    "Name": "drooping eyelid"
+  },
+  {
+    "ID": 273,
+    "Name": "dry eyes"
+  },
+  {
+    "ID": 87,
+    "Name": "earache"
+  },
+  {
+    "ID": 92,
+    "Name": "early satiety"
+  },
+  {
+    "ID": 287,
+    "Name": "eye pain"
+  },
+  {
+    "ID": 33,
+    "Name": "eye redness"
+  },
+  {
+    "ID": 153,
+    "Name": "fast, deepened breathing"
+  },
+  {
+    "ID": 76,
+    "Name": "feeling of foreign body in the eye"
+  },
+  {
+    "ID": 11,
+    "Name": "fever"
+  },
+  {
+    "ID": 57,
+    "Name": "going black before the eyes"
+  },
+  {
+    "ID": 9,
+    "Name": "headache"
+  },
+  {
+    "ID": 45,
+    "Name": "heartburn"
+  },
+  {
+    "ID": 122,
+    "Name": "hiccups"
+  },
+  {
+    "ID": 149,
+    "Name": "hot flushes"
+  },
+  {
+    "ID": 40,
+    "Name": "increased thirst"
+  },
+  {
+    "ID": 73,
+    "Name": "itching eyes"
+  },
+  {
+    "ID": 96,
+    "Name": "itching in the nose"
+  },
+  {
+    "ID": 35,
+    "Name": "lip swelling"
+  },
+  {
+    "ID": 235,
+    "Name": "memory gap"
+  },
+  {
+    "ID": 112,
+    "Name": "menstruation disorder"
+  },
+  {
+    "ID": 123,
+    "Name": "missed period"
+  },
+  {
+    "ID": 44,
+    "Name": "nausea"
+  },
+  {
+    "ID": 136,
+    "Name": "neck pain"
+  },
+  {
+    "ID": 114,
+    "Name": "nervousness"
+  },
+  {
+    "ID": 133,
+    "Name": "night cough"
+  },
+  {
+    "ID": 12,
+    "Name": "pain in the limbs"
+  },
+  {
+    "ID": 203,
+    "Name": "pain on swallowing"
+  },
+  {
+    "ID": 37,
+    "Name": "palpitations"
+  },
+  {
+    "ID": 140,
+    "Name": "paralysis"
+  },
+  {
+    "ID": 54,
+    "Name": "reduced appetite"
+  },
+  {
+    "ID": 14,
+    "Name": "runny nose"
+  },
+  {
+    "ID": 29,
+    "Name": "shortness of breath"
+  },
+  {
+    "ID": 124,
+    "Name": "skin rash"
+  },
+  {
+    "ID": 52,
+    "Name": "sleeplessness"
+  },
+  {
+    "ID": 95,
+    "Name": "sneezing"
+  },
+  {
+    "ID": 13,
+    "Name": "sore throat"
+  },
+  {
+    "ID": 64,
+    "Name": "sputum"
+  },
+  {
+    "ID": 179,
+    "Name": "stomach burning"
+  },
+  {
+    "ID": 28,
+    "Name": "stuffy nose"
+  },
+  {
+    "ID": 138,
+    "Name": "sweating"
+  },
+  {
+    "ID": 248,
+    "Name": "swollen glands in the armpits"
+  },
+  {
+    "ID": 169,
+    "Name": "swollen glands on the neck"
+  },
+  {
+    "ID": 211,
+    "Name": "tears"
+  },
+  {
+    "ID": 16,
+    "Name": "tiredness"
+  },
+  {
+    "ID": 115,
+    "Name": "tremor at rest"
+  },
+  {
+    "ID": 144,
+    "Name": "unconsciousness, short"
+  },
+  {
+    "ID": 101,
+    "Name": "vomiting"
+  },
+  {
+    "ID": 181,
+    "Name": "vomiting blood"
+  },
+  {
+    "ID": 56,
+    "Name": "weakness"
+  },
+  {
+    "ID": 23,
+    "Name": "weight gain"
+  },
+  {
+    "ID": 30,
+    "Name": "wheezing"
+  }
+]

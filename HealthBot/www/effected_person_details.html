@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link rel="manifest" href="manifest.json">
+
+    <!-- un-comment this code to enable service worker
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js')
+          .then(() => console.log('service worker installed'))
+          .catch(err => console.log('Error', err));
+      }
+    </script>-->
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+  </head>
+  <body class="main_body_everyehere">
+
+    <ion-pane>
+      <!-- <ion-header-bar class="bar-stable">
+        <h1 class="title">Ionic Blank Starter</h1>
+      </ion-header-bar> -->
+      <ion-content ng-app="time" ng-controller="datetimeCtrl">
+
+        <div text-center class="header_app_font">
+          <a ng-click="afterloginrefresh();">
+            &nbsp;&nbsp;&nbsp;<span class="ion-chevron-left"></span><span class="ion-chevron-left"></span>
+          </a>
+          &nbsp;&nbsp;&nbsp; Appointment Allotment
+        </div>
+
+        <hr style="height:1px; margin: 5%;"/>
+
+        <div class="card appointing_data">
+          <!-- <script>
+            document.write(location.search.split('variabledetails=')[1]);
+            document.write(location.search.split('variabledetails=')[2]);
+          </script> -->
+
+          <div class="list">
+            <label class="item item-input item-stacked-label">
+              <span class="input-label">Appointment Date</span>
+              <input type="text" ng-model="date" name="date" placeholder="Enter the Appointment date">
+            </label>
+            <label class="item item-input item-stacked-label">
+              <span class="input-label">Appointment Time</span>
+              <input type="text" ng-model="time" name="time" placeholder="enter the Appointment time">
+            </label>
+
+            <div class="item ite-divider">
+              <div class="button_label">
+                  <button class="button button-positive" ng-click="datetime();"> Make Appointment </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </ion-content>
+    </ion-pane>
+  </body>
+
+</html>

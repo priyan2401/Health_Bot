@@ -1,0 +1,56 @@
+[
+  {
+    "Location": "vijayawada",
+    "Name": "Miracle-Vijayawada Hospital",
+	"Symptom":"skin rash",
+    "Email" : "pallipriyankaprasad0@gmail.com"
+  },
+  {
+    "Location": "vijayawada",
+    "Name": "Miracle-Vijayawada Hospital",
+	"Symptom":"heartburn",
+    "Email" : "sunilmca91@gmail.com"
+  },
+  {
+    "Location": "vijayawada",
+    "Name": "Miracle-Vijayawada Hospital",
+	"Symptom":"missed period",
+    "Email" : "vaniprasad109@gmail.com"
+  },
+  {
+    "Location": "vizag",
+    "Name": "Miracle-Vizag Hospital",
+	"Symptom":"skin rash",
+    "Email" : "gurusainath007@gmail.com"
+  },
+  {
+    "Location": "vizag",
+    "Name": "Miracle-Vizag Hospital",
+	"Symptom":"missed period",
+    "Email" : "gurusainath007@gmail.com"
+  },
+  {
+    "Location": "vizag",
+    "Name": "Miracle-Vizag Hospital",
+	"Symptom":"heartburn",
+    "Email" : "gurusainath007@gmail.com"
+  },
+  {
+    "Location": "hyderabad",
+    "Name": "Miracle-Hyderabad Hospital",
+	"Symptom":"skin rash",
+    "Email" : "naidunandhakishore@gmail.com"
+  },
+  {
+    "Location": "hyderabad",
+    "Name": "Miracle-Hyderabad Hospital",
+	"Symptom":"missed period",
+    "Email" : "naidunandhakishore@gmail.com"
+  },
+  {
+    "Location": "hyderabad",
+    "Name": "Miracle-Hyderabad Hospital",
+	"Symptom":"heartburn",
+    "Email" : "naidunandhakishore@gmail.com"
+  }
+]
